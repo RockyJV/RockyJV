@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rocky Jose Valleamkulath
 
 **Data Engineer | Analytics Engineer | Data Analyst**  
-Bridging the gap between data, business, and execution with 5+ years of experience translating complex problems into scalable, data-driven solutions.
+Bridging the gap between data, business, and execution with 5+ years of experience translating complex problems into scalable, data-driven solutions. Delivered impactful data solutions at Bosch, Texas A&M University, and the Texas A&M Veterinary Medical Diagnostic Laboratory (TVMDL
 
 🎯 I'm passionate about architecting robust data systems, building ML-powered analytics, and delivering business impact through clean code, clear insights, and cross-functional collaboration.
 
