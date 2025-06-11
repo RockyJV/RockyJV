@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rocky Jose Valleamkulath
 
 **Data Engineer | Analytics Engineer | Data Analyst**  
-Bridging the gap between data, business, and execution — with 5+ years of experience translating complex problems into scalable, data-driven solutions.
+Bridging the gap between data, business, and execution with 5+ years of experience translating complex problems into scalable, data-driven solutions.
 
 🎯 I'm passionate about architecting robust data systems, building ML-powered analytics, and delivering business impact through clean code, clear insights, and cross-functional collaboration.
 
@@ -20,9 +20,9 @@ Roles where I can contribute to:
 - Data Engineering / Analytics Engineering / Big Data
 - Business Intelligence / Data Analytics
 - Data Product or Analytics Program Management
-- Machine Learning / Data Science
 
-I'm especially drawn to high-impact environments that blend **data, product thinking, and execution.**
+
+I'm especially drawn to high-impact environments that blend **data, analytics, and execution.**
 
 ---
 
@@ -36,8 +36,8 @@ I'm especially drawn to high-impact environments that blend **data, product thin
 ---
 
 ### 🌱 Currently Exploring
-- Building **Lakehouse Architectures** with **Delta Lake** and **Apache Hudi**
-- Scaling ML workflows using **SageMaker** and **MLOps** best practices
+- strenghtening my data engineering skills in Azure, Databricks and Apache Flink
+- Building Generative AI data pipelines
 - dbt, DuckDB, and serverless tools for lightweight analytics engineering
 
 ---
