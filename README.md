@@ -29,6 +29,7 @@ I'm especially drawn to high-impact environments that blend **data, analytics, a
 ### ⚡ Interests
 - 🧠 **Data Strategy** – Turning messy data into enterprise-grade assets
 - 📊 **Analytics & Visualization** – Communicating insights through dashboards and KPIs
+- 🗄️ **Pipelines & Databases** – Building robust ETL/ELT pipelines, managing SQL/NoSQL databases, and enabling seamless data flow across systems
 - 🚀 **Cloud & Scalable Systems** – Deploying pipelines on **AWS, Azure**, and **Databricks**
 - 🔄 **AI/ML in Production** – Not just modeling, but making it usable and scalable
 - 🎯 **Cross-functional Collaboration** – Working at the intersection of tech, business, and users
