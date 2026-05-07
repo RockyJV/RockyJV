@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Rocky Jose Valleamkulath
 
-Full Stack Data Engineer : Data Engineer + Analytics Engineer + Data Analyst + Data Product Manager  
-Bridging the gap between data, business, and execution with 5+ years of experience translating complex problems into scalable, data-driven solutions. 
-
+I am passionate about turning data and AI into intelligent solutions that solve real problems, improve decisions, and create meaningful business impact.
 
 ### 📫 Let’s Connect
 📧 Email: rockyvalleamkulath22@gmail.com  
