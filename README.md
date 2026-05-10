@@ -6,7 +6,7 @@ I am passionate about turning data and AI into intelligent solutions that solve 
 📧 Email: rockyvalleamkulath22@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rockyvalleamkulath/)  
 
-Tableau profile: https://public.tableau.com/app/profile/rocky.valleamkulath/
+    Tableau profile: https://public.tableau.com/app/profile/rocky.valleamkulath/
 ---
 
 🔁 *Let’s build something that moves the needle.*
